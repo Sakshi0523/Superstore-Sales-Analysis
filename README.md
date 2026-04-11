@@ -4,10 +4,10 @@ A Power BI dashboard analyzing $2M in sales data, featuring YOY growth, regional
 ## 📊 Project Visuals
 
 ### Sales Dashboard Overview
-![Dashboard](Dashboard image.png)
+![Dashboard](<Dashboard image.png>)
 
 ### 15-Day Sales Forecast
-![Forecast](Forecast image.png)
+![Forecast](<Forecast image.png>)
 
 ---
 
@@ -21,3 +21,4 @@ A Power BI dashboard analyzing $2M in sales data, featuring YOY growth, regional
 * **Revenue Drivers:** Identified the West Region as the primary market contributor.
 * **Forecasting:** Implemented a 15-day time-series forecast to assist in inventory planning.
 * **Profitability:** Analyzed YOY trends to isolate peak seasonal performance.
+
