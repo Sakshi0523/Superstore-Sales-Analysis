@@ -9,7 +9,16 @@ A Power BI dashboard analyzing $2M in sales data, featuring YOY growth, regional
 ### 15-Day Sales Forecast
 ![Forecast](<Forecast image.png>)
 
+## 🛠️ Technical Skill Set
+| Category | Skills & Tools |
+| :--- | :--- |
+| **Analysis** | YOY Growth Analysis, Market Segmentation, Seasonal Trend Identification |
+| **Forecasting** | 15-Day Time-Series Predictive Modeling, Inventory Optimization |
+| **Visualization** | Power BI Dashboard Development, Interactive Reporting |
+| **Data** | Data Cleaning, Exploratory Data Analysis (EDA) |
 ---
+
+
 
 ## 📂 Project Resources
 * **[🚀 Download Interactive Power BI Report (.pbix)](<Superstore Sales Dashboard.pbix>)**
