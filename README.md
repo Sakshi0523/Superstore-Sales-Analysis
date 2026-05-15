@@ -32,8 +32,8 @@ A retail superstore needed visibility into **which regions, categories, and time
 * **Revenue Drivers:** Identified the West Region as the primary market contributor.
 * **Forecasting:** Implemented a 15-day time-series forecast to assist in inventory planning.
 * **Profitability:** Analyzed YOY trends to isolate peak seasonal performance.
-## 🚀 How to Use
-1. Clone or download this repository
-2. Open the `.pbix` file in **Power BI Desktop**
-3. Explore outlet type, location tier, and item category filters
 
+## 🚀 How to Use
+1. Download `Superstore Sales Dashboard.pbix`
+2. Open in **Power BI Desktop** (free download from Microsoft)
+3. Use region, category, and date slicers to explore insights
